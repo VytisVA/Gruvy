@@ -43,6 +43,8 @@ These instructions will help to follow the steps of the project.
 ## Web Resources and Tools
 
 - Chrome Developer Tools
+- VSC
+- Balsamiq for wireframing
 
 ## Author
 
