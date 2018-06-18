@@ -45,6 +45,7 @@ These instructions will help to follow the steps of the project.
 - Chrome Developer Tools
 - VSC
 - Balsamiq for wireframing
+- [Animate.css](https://github.com/daneden/animate.css)
 
 ## Author
 

@@ -4,7 +4,7 @@ html, body {
 
 body {
     font-family: "Roboto Condensed", sans-serif;
-    color: #ffffff;
+    /* color: #ffffff; */
 }
 
 h3 {
@@ -68,3 +68,18 @@ h3 {
     color: #D36135;
 }
 
+#home-cover, #home-heading, #home-btn {
+    animation-duration: .5s;
+}
+
+#home-cover {
+    animation-delay: .1s;
+}
+
+#home-heading {
+    animation-delay: .5s;
+}
+
+#home-btn {
+    animation-delay: 1s;
+}
