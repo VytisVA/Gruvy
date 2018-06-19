@@ -47,6 +47,7 @@ These instructions will help to follow the steps of the project.
 - Balsamiq for wireframing
 - [Animate.css](https://github.com/daneden/animate.css)
 - [WOW.js](https://mynameismatthieu.com/WOW/)
+- [Magnific-popup](https://github.com/dimsemenov/Magnific-Popup)
 
 ## Author
 
