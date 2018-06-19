@@ -8,7 +8,7 @@ These instructions will help to follow the steps of the project.
 
 ## Usage(Global)
 
-- N/A
+- N/A yet
 
 ## Usage(Local)
 
@@ -18,7 +18,7 @@ These instructions will help to follow the steps of the project.
 
 ## Running the tests
 
-- N/A
+- N/A yet
 
 ## Steps to complete
 
@@ -54,4 +54,4 @@ These instructions will help to follow the steps of the project.
 
 ## App screenshots
 
-![Homepage]()
+![Homepage](https://github.com/VytisVA/Gruvy/blob/master/img/pageshot.png)
