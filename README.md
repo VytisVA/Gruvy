@@ -48,6 +48,7 @@ These instructions will help to follow the steps of the project.
 - [Animate.css](https://github.com/daneden/animate.css)
 - [WOW.js](https://mynameismatthieu.com/WOW/)
 - [Magnific-popup](https://github.com/dimsemenov/Magnific-Popup)
+- [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2)
 
 ## Author
 
