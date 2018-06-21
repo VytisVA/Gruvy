@@ -106,7 +106,7 @@ p {
 }
 
 .content-box {
-    padding: 60px 0 60px 0;
+    padding: 30px 0 30px 0;
 }
 
 .content-title h3 {
@@ -114,6 +114,10 @@ p {
     font-weight: 400;
     text-align: center;
     margin: 0 0 30px 0;
+}
+
+.content-title-white h3 {
+    /* color: #fff; */
 }
 
 .content-title-underline {
@@ -257,4 +261,66 @@ h4.team-member-designation {
 
 .social-icon i:hover {
     color: #D36135;
+}
+
+#testimonials-cover {
+    background-image: url("/img/test1.jpeg");
+}
+
+#testimonials .content-box {
+    /* background-color: rgba(0,0,0, 0.1); */
+}
+
+#customers-testimonials {
+    padding: 50px 0;
+}
+
+.testimonial img {
+    max-width: 120px;
+    margin: 0 auto 0 auto;
+}
+
+.testimonial blockquote {
+    border: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #fff;
+    padding: 6px 150px;
+    position: relative;
+}
+
+.testimonial blockquote p {
+    color: #D36135;
+    text-align: center;
+}
+
+.testimonial-author p {
+    color: #D36135;
+    text-align: center;
+}
+
+.testimonial blockquote::before, .testimonial blockquote::after {
+    font-size: 80px;
+    font-style: normal;
+    line-height: 1;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.testimonial blockquote::before {
+    content: "\201C";
+    color: #D36135;
+    top: 0;
+    left: 100px;
+}
+.testimonial blockquote::after {
+    content: "\201D";
+    color: #D36135;
+    bottom: 0;
+    right: 100px;
+}
+
+.testimonial-author p strong {
+    display: block;
 }
