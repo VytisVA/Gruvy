@@ -117,7 +117,7 @@ p {
 }
 
 .content-title-white h3 {
-    /* color: #fff; */
+    color: #fff;
 }
 
 .content-title-underline {
@@ -379,4 +379,36 @@ ul.pricing-specs li p {
 
 .pricing-box-lg ul.pricing-specs li p {
     color: #fff;
+}
+
+#stats-cover {
+    background-image: url("../img/growing.jpg");
+}
+
+#stats .content-box {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.stats-item {
+    padding: 100px 0;
+}
+
+.stats-item i {
+    color: #D36135;
+}
+
+.stats-item h2 {
+    color: white;
+    font-size: 35px;
+    font-weight: 400px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+
+.stats-item p {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 0;
+    text-align: center;
 }
