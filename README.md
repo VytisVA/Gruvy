@@ -49,6 +49,8 @@ These instructions will help to follow the steps of the project.
 - [WOW.js](https://mynameismatthieu.com/WOW/)
 - [Magnific-popup](https://github.com/dimsemenov/Magnific-Popup)
 - [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2)
+- [jquery.counterup](https://github.com/ciromattia/jquery.counterup)
+- [Waypoints](http://imakewebthings.com/waypoints/)
 
 ## Author
 
