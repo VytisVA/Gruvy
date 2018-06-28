@@ -412,3 +412,7 @@ ul.pricing-specs li p {
     margin-top: 0;
     text-align: center;
 }
+
+.client {
+    padding: 40px 0;
+}
