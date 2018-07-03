@@ -272,7 +272,7 @@ h4.team-member-designation {
 }
 
 #testimonials .content-box {
-    background-color: rgba(0,0,0, 0.2)
+    background-color: rgba(0, 0, 0, 0.2)
 }
 
 #customers-testimonials {
@@ -421,35 +421,46 @@ ul.pricing-specs li p {
     padding: 40px 20px;
 }
 
- footer {
+footer {
     background-color: rgb(64, 65, 67);
     padding-top: 30px;
     border-top: 5px solid rgba(0, 0, 0, 0.1)
- }
+}
 
- #contact-left h3 {
-     color: #fff;
-     font-size: 27px;
-     font-weight: 400;
- }
+#contact-left h3,
+#contact-right h3 {
+    color: #fff;
+    font-size: 27px;
+    font-weight: 400;
+}
 
- #contact-left p {
-     color: #fff;
-     margin-bottom: 27px;
- }
+#contact-left p {
+    color: #fff;
+    margin-bottom: 27px;
+}
 
- /* #contact-info {
+/* #contact-info {
     background-image: url("../img/world2.jpg");
     background-repeat: no-repeat;
     background-size: contain;
  } */
 
- address {
-     color: white;
- }
+address {
+    color: white;
+}
 
- address strong, 
- phone-email strong {
+address strong,
+phone-email strong {
     letter-spacing: 1px;
- }
+}
 
+form .form-control {
+    background: transparent;
+    border-radius: 0;
+    border-color: white;
+    font-size: 15px;
+    /* font-weight: 300; */
+    padding: 5px 5px;
+    margin-bottom: 5px;
+    color: white;
+}
