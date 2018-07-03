@@ -259,6 +259,10 @@ h4.team-member-designation {
     color: #639FAB;
 }
 
+.icon-white i {
+    color: white;
+}
+
 .social-icon i:hover {
     color: #D36135;
 }
@@ -416,3 +420,36 @@ ul.pricing-specs li p {
 .client {
     padding: 40px 20px;
 }
+
+ footer {
+    background-color: rgb(64, 65, 67);
+    padding-top: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.1)
+ }
+
+ #contact-left h3 {
+     color: #fff;
+     font-size: 27px;
+     font-weight: 400;
+ }
+
+ #contact-left p {
+     color: #fff;
+     margin-bottom: 27px;
+ }
+
+ /* #contact-info {
+    background-image: url("../img/world2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+ } */
+
+ address {
+     color: white;
+ }
+
+ address strong, 
+ phone-email strong {
+    letter-spacing: 1px;
+ }
+
