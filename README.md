@@ -51,6 +51,7 @@ These instructions will help to follow the steps of the project.
 - [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2)
 - [jquery.counterup](https://github.com/ciromattia/jquery.counterup)
 - [Waypoints](http://imakewebthings.com/waypoints/)
+- [Emmet](https://emmet.io/)
 
 ## Author
 
