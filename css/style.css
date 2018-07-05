@@ -464,3 +464,18 @@ form .form-control {
     margin-bottom: 5px;
     color: white;
 }
+
+#footer-bottom {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 30px 0;
+    margin-top: 60px;
+}
+
+#footer-copyrights p {
+    margin: 0;
+    color: #fff;
+}
+
+#footer-menu {
+    float: left;
+}
