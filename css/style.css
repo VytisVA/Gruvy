@@ -504,3 +504,31 @@ form .form-control {
 #footer-menu a:hover {
     color: #D36135;
 }
+
+.navbar {
+    padding: 10px 0;
+}
+
+.gruvy-top-nav {
+    background-color:rgba(0, 0, 0, 0.7);
+}
+
+.gruvy-nav-wrapper {
+    padding: 0 85px;
+}
+
+.navbar-nav {
+    float: right;
+}
+.navbar-nav > li > a {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 200;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    background: none;
+    color: #D36135;
+}
