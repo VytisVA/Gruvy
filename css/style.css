@@ -520,15 +520,29 @@ form .form-control {
 .navbar-nav {
     float: right;
 }
+
 .navbar-nav > li > a {
     color: white;
-    font-size: 16px;
+    font-size: 12px;
     text-transform: uppercase;
-    letter-spacing: 1px;
     font-weight: 200;
 }
 
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
     background: none;
     color: #D36135;
+}
+
+.navbar-toggle {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid white;
+    border-radius: 0;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-colapse {
+    max-height: none !important;
 }
