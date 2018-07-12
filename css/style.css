@@ -546,3 +546,7 @@ form .form-control {
 .navbar-colapse {
     max-height: none !important;
 }
+
+.gruvy-top-nav ul.navbar-nav > li.active > a {
+    color: #639FAB;
+}
