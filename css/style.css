@@ -431,7 +431,7 @@ footer {
 #contact-right h3 {
     color: #fff;
     font-size: 27px;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 #contact-left p {
@@ -480,7 +480,7 @@ form .form-control {
     float: left;
     color: #fff;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 #footer-menu ul {
@@ -496,7 +496,7 @@ form .form-control {
 #footer-menu a {
     color: #fff;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 100;
     margin: 0 10px;
     text-decoration: none;
 }
@@ -507,6 +507,7 @@ form .form-control {
 
 .navbar {
     padding: 10px 0;
+    transition: all .5s ease-in-out;
 }
 
 .gruvy-top-nav {
@@ -523,7 +524,7 @@ form .form-control {
 
 .navbar-nav > li > a {
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     text-transform: uppercase;
     font-weight: 200;
 }

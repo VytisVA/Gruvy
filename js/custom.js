@@ -54,3 +54,16 @@ $(function () {
     });
 
 });
+
+$(function(){
+
+    $(window).scroll(function(){
+        if($(this).scrollTop() < 50 ) {
+            // hide nav bar
+            $("nav").removeClass("gruvy-top-nav");
+        } else {
+            // show nav bar
+            $("nav").addClass("gruvy-top-nav");
+        }    
+    });
+});
