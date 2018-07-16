@@ -55,15 +55,32 @@ $(function () {
 
 });
 
-$(function(){
+$(function () {
 
-    $(window).scroll(function(){
-        if($(this).scrollTop() < 50 ) {
+    $(window).scroll(function () {
+        if ($(this).scrollTop() < 50) {
             // hide nav bar
             $("nav").removeClass("gruvy-top-nav");
         } else {
             // show nav bar
             $("nav").addClass("gruvy-top-nav");
-        }    
+        }
     });
+});
+
+$(function () {
+
+    $("a.smooth-scrool").click(function (event) {
+
+        event.preventDefault();
+
+        // get/return id like #about, #work, etc.
+        var section = $(this).attr("href");
+
+        $('html, body').animate({
+            scrollTop: $(section).offset().top - 65
+        }, 1000);
+
+    });
+
 });
