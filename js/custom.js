@@ -61,9 +61,11 @@ $(function () {
         if ($(this).scrollTop() < 50) {
             // hide nav bar
             $("nav").removeClass("gruvy-top-nav");
+            $("#back-to-top").fadeOut();
         } else {
             // show nav bar
             $("nav").addClass("gruvy-top-nav");
+            $("#back-to-top").fadeIn();
         }
     });
 });

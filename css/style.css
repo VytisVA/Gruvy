@@ -87,6 +87,15 @@ p {
     color: #ffffff;
 }
 
+.btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 15px;
+    border-radius: 0;
+    display: none;
+}
+
 #home-cover,
 #home-heading,
 #home-btn {
