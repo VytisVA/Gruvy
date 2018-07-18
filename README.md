@@ -52,6 +52,7 @@ These instructions will help to follow the steps of the project.
 - [Waypoints](http://imakewebthings.com/waypoints/)
 - [Emmet](https://emmet.io/)
 - [Nu Html Checker / Validator](https://validator.w3.org/nu/#l873c26)
+- [CSS validator](https://jigsaw.w3.org/css-validator/validator)
 
 ## Author
 

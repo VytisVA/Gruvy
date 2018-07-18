@@ -159,7 +159,7 @@ p {
 
 .service-item-title h3 {
     font-size: 20px;
-    font-weight: 300px;
+    font-weight: 300;
     margin: 0 0 10px 0;
 }
 
@@ -413,7 +413,7 @@ ul.pricing-specs li p {
 .stats-item h2 {
     color: white;
     font-size: 35px;
-    font-weight: 400px;
+    font-weight: 300;
     margin-top: 15px;
     margin-bottom: 1px;
 }
