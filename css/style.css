@@ -520,7 +520,7 @@ form .form-control {
 }
 
 .gruvy-top-nav {
-    background-color:rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .gruvy-nav-wrapper {
@@ -531,14 +531,15 @@ form .form-control {
     float: right;
 }
 
-.navbar-nav > li > a {
+.navbar-nav>li>a {
     color: white;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 200;
 }
 
-.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+.navbar-nav>li>a:hover,
+.navbar-nav>li>a:focus {
     background: none;
     color: #D36135;
 }
@@ -557,6 +558,6 @@ form .form-control {
     max-height: none !important;
 }
 
-.gruvy-top-nav ul.navbar-nav > li.active > a {
+.gruvy-top-nav ul.navbar-nav>li.active>a {
     color: #639FAB;
 }
