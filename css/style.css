@@ -440,7 +440,7 @@ footer {
 #contact-right h3 {
     color: #fff;
     font-size: 27px;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 #contact-left p {
@@ -465,7 +465,7 @@ address {
 }
 
 address strong,
-phone-email strong {
+phone-email strong { font-size: 14px;
     letter-spacing: 1px;
 }
 
