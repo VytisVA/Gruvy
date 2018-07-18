@@ -8,7 +8,7 @@ These instructions will help to follow the steps of the project.
 
 ## Usage(Global)
 
-- N/A yet
+- https://gruvy-nklsrtnlwt.now.sh/
 
 ## Usage(Local)
 
@@ -16,9 +16,11 @@ These instructions will help to follow the steps of the project.
 - `npm install`
 - Local: run the app using server runner (eg. http server, Live Server)
 
-## Running the tests
+## Cross Browser Testing, HTML/CSS validation
 
-- N/A yet
+- Cross-browser testing and responsiveness checked manually on Chrome and Safari. 
+- HTML checked via W3C Markup Validation Service. 
+- CSS checked on The W3C CSS Validation Service.
 
 ## Steps to complete
 
