@@ -8,7 +8,7 @@ These instructions will help to follow the steps of the project.
 
 ## Usage(Global)
 
-- https://gruvy-nklsrtnlwt.now.sh/
+- [Gruvy website](https://gruvy-nklsrtnlwt.now.sh/)
 
 ## Usage(Local)
 
@@ -18,8 +18,8 @@ These instructions will help to follow the steps of the project.
 
 ## Cross Browser Testing, HTML/CSS validation
 
-- Cross-browser testing and responsiveness checked manually on Chrome and Safari. 
-- HTML checked via W3C Markup Validation Service. 
+- Cross-browser testing and responsiveness checked manually on Chrome and Safari.
+- HTML checked via W3C Markup Validation Service.
 - CSS checked on The W3C CSS Validation Service.
 
 ## Steps to complete
