@@ -8,7 +8,7 @@ These instructions will help to follow the steps of the project.
 
 ## Usage(Global)
 
-- N/A yet
+- Will be available via Zeit Now platform
 
 ## Usage(Local)
 
