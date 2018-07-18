@@ -38,7 +38,6 @@ These instructions will help to follow the steps of the project.
 - HTML
 - CSS
 - Bootsrap
-- Zeit (Now CLI) for deployment
 
 ## Web Resources and Tools
 
@@ -52,6 +51,7 @@ These instructions will help to follow the steps of the project.
 - [jquery.counterup](https://github.com/ciromattia/jquery.counterup)
 - [Waypoints](http://imakewebthings.com/waypoints/)
 - [Emmet](https://emmet.io/)
+- [Nu Html Checker / Validator](https://validator.w3.org/nu/#l873c26)
 
 ## Author
 
