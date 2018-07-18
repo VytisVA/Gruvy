@@ -38,6 +38,7 @@ These instructions will help to follow the steps of the project.
 - HTML
 - CSS
 - Bootsrap
+- Zeit Now
 
 ## Web Resources and Tools
 
